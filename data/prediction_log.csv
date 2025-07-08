@@ -1,0 +1,5 @@
+timestamp,device_id,event_type,threat_detected,Threat Prediction
+2025-05-08 10:00:00,0,1,0,✅ Safe
+2025-05-08 10:01:00,1,2,1,✅ Safe
+2025-05-08 10:02:00,2,0,0,✅ Safe
+2025-05-08 10:03:00,3,3,1,⚠️ Yes
